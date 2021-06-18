@@ -1,0 +1,246 @@
+party_id,election_date,language,source,has_eu_code,is_primary_doc,may_contradict_core_dataset,manifesto_id,md5sum_text,url_original,md5sum_original,annotations,handbook,is_copy_of,title,key
+51320,194507,,,,,,,,,,,,,Let us face the future: a declaration of Labour policy for the consideration of the nation,51320_194507
+51420,194507,,,,,,,,,,,,,20-point manifesto of the Liberal Party,51420_194507
+51620,194507,,,,,,,,,,,,,Mr Churchill's declaration of policy to the electors,51620_194507
+51320,195002,,,,,,,,,,,,,Let us win through together: a declaration of Labour policy for the consideration of the nation,51320_195002
+51420,195002,,,,,,,,,,,,,No easy way: Britain’s problems and the liberal answers,51420_195002
+51620,195002,,,,,,,,,,,,,This is the road: the Conservative and Unionist Party’s policy,51620_195002
+51320,195110,,,,,,,,,,,,,The Labour party election manifesto,51320_195110
+51420,195110,,,,,,,,,,,,,The nation’s task,51420_195110
+51620,195110,,,,,,,,,,,,,The manifesto of the Conservative and Unionist Party,51620_195110
+51320,195505,,,,,,,,,,,,,Forward with Labour: Labour’s policy for the consideration of the nation,51320_195505
+51420,195505,,,,,,,,,,,,,Crisis unresolved,51420_195505
+51620,195505,,,,,,,,,,,,,"United for peace and progress, the Conservative and Unionist Party’s policy",51620_195505
+51320,195910,,,,,,,,,,,,,Britain belongs to you. The Labour Party policy for the consideration of the nation,51320_195910
+51420,195910,,,,,,,,,,,,,People count,51420_195910
+51620,195910,,,,,,,,,,,,,"The next five years, the Conservative and Unionist Party’s policy",51620_195910
+51320,196410,english,CEMP,False,True,False,51320_196410,2d63d5748857b13028f4a6f7e9d833bd,,,False,,,Let’s Go With Labour for the New Britain,51320_196410
+51420,196410,english,CEMP,False,True,False,51420_196410,9285134c9aa2060db385cc71552bdc45,,,False,,,Think for Yourself - Vote Liberal,51420_196410
+51620,196410,english,CEMP,False,True,False,51620_196410,9ee361c444cbd17e7ddd58563caa0aa3,,,False,,,"‘Prosperity with a Purpose’, Conservative and Unionist Party’s Policy",51620_196410
+51320,196603,english,CEMP,False,True,False,51320_196603,a2eca69c1a9bebcd90ca6051af5d5b7b,,,False,,,Time for Decision,51320_196603
+51420,196603,english,CEMP,False,True,False,51420_196603,080b95338e3905f597fd660153d5ec19,,,False,,,For all the People: The Liberal Plan of 1966,51420_196603
+51620,196603,english,CEMP,False,True,False,51620_196603,e513b741d9c104d65cb469b8ce72d65d,,,False,,,Action not Words: New Conservative Programme,51620_196603
+51320,197006,english,CEMP,False,True,False,51320_197006,32eb92fd9b3d4537a8c34d7f091e10f5,,,False,,,Now Britain’s Strong - Let’s Make it Great to Live In,51320_197006
+51420,197006,english,CEMP,False,True,False,51420_197006,230d32bf8e09c4765d71eabaec53a23a,,,False,,,What a Life!,51420_197006
+51620,197006,english,CEMP,False,True,False,51620_197006,b7ade0395bad91d715ea295cfc578be9,,,False,,,A Better Tomorrow,51620_197006
+51320,197402,english,CEMP,False,True,False,51320_197402,8d31d40aa571551034bb75235743cd23,/down/originals/2018-2/51320_197402.pdf,0ae396af1cddb2122c6ba1ad1dc7c68d,False,,,Let us Work Together - Labour’s Way Out of the Crisis,51320_197402
+51420,197402,english,CEMP,False,True,False,51420_197402,716071080787f0804f47241c979a9eb3,,,False,,,Change the Face of Britain,51420_197402
+51620,197402,english,CEMP,False,True,False,51620_197402,0927283ddb7f271ec11b0577a7fbc798,,,False,,,Firm Action for a Fair Britain,51620_197402
+51320,197410,english,CEMP,False,True,False,51320_197410,f4d0b81a9cf0038ada372c12869feca2,,,False,,,Britain Will Win With Labour,51320_197410
+51420,197410,english,CEMP,False,True,False,51420_197410,03521b7e3a4357913fae8770fba2a7d4,,,False,,,Why Britain Needs Liberal Government,51420_197410
+51620,197410,english,CEMP,False,True,False,51620_197410,3072737ccc69389d7ac0d5d3de2775ea,,,False,,,Putting Britain First,51620_197410
+51320,197905,english,CEMP,False,True,False,51320_197905,7a1f1aeddf24f70ffa15091f54ed157d,,,False,,,The Labour Way is the Better Way,51320_197905
+51420,197905,english,CEMP,False,True,False,51420_197905,dce6fff90b0915a2ccdd09223dc93b28,,,False,,,The Real Fight is for Britain,51420_197905
+51620,197905,english,CEMP,False,True,False,51620_197905,a7ed93158a148992f64ec49f04ad4a9f,,,False,,,"The Conservative Manifesto 1979,",51620_197905
+51320,198306,english,CEMP,False,True,False,51320_198306,9f5d8582ffe21a1e011b544cf8b0db6f,/down/originals/51320_1983.pdf,a85e03359a6fcd09e3232142b849e2e1,False,,,The new hope for Britain,51320_198306
+51330,198306,english,CEMP,False,True,False,51330_198306,c5da1c7d812324ec5fd5c8f09a8d5527,,,False,,51420_198306,"Joint programme of The Liberal/SDP Alliance: ‘Working Together for Britain’, Liberal/SPD Alliance Manifesto, introduction by Jenkins and Steel.",51330_198306
+51420,198306,english,CEMP,False,True,False,51420_198306,c5da1c7d812324ec5fd5c8f09a8d5527,,,False,,,"Joint programme of The Liberal/SDP Alliance: ‘Working Together for Britain’, Liberal/SPD Alliance Manifesto, introduction by Jenkins and Steel",51420_198306
+51620,198306,english,CEMP,False,True,False,51620_198306,583c1d08e3009227cd63d07e0f89cb07,/down/originals/51620_1983.pdf,8f286f6fef12f03ad472c8643248f797,False,,,The challenge of our times,51620_198306
+51320,198706,english,CEMP,False,True,False,51320_198706,c6782630e9b5418109275fddedb97a4b,/down/originals/51320_1987.pdf,bddba0434c60346189cbf8126e610fae,False,,,Britain will win,51320_198706
+51330,198706,english,CEMP,False,True,False,51330_198706,daf23ed676649c0ba29589f107865667,,,False,,51420_198706,Joint programme of The Liberal/SDP Alliance: Britain United ‘The Time Has Come’,51330_198706
+51420,198706,english,CEMP,False,True,False,51420_198706,daf23ed676649c0ba29589f107865667,,,False,,,Joint programme of The Liberal/SDP Alliance: Britain United ‘The Time Has Come’,51420_198706
+51620,198706,english,CEMP,False,True,False,51620_198706,9114c7b878f2fdb199dfca2c25ff8eb9,/down/originals/51620_1987.pdf,2dc5d918a2fbc15c4d78551fbd4fedde,False,,,The next moves forward,51620_198706
+51320,199204,english,CEMP,False,True,False,51320_199204,866886ba47561bcc610d3cf9112d0d24,/down/originals/51320_1992.pdf,979861f36918d61b081a6c3f054c0864,False,,,It’s time to get Britain working again,51320_199204
+51421,199204,english,CEMP,False,True,False,51421_199204,d970f29ddb4974af8266281af962ca3c,,,False,,,Changing Britain for Good,51421_199204
+51620,199204,english,CEMP,False,True,False,51620_199204,5ba8f41c00b692da9dd87db588711a91,/down/originals/51620_1992.pdf,360f83d227aacf943ec75c9ffb342620,False,,,The best future for Britain,51620_199204
+51621,199204,,,,,,,,,,,,,Estimate,51621_199204
+51902,199204,,,,,,,,/down/originals/51902_1992.pdf,8ec437fc708f2001021f24699e152013,,,,Independence in Europe - make it happen now!,51902_199204
+51903,199204,,,,,,,,,,,,,Estimate,51903_199204
+51210,199705,,,,,,,,,,,,,Estimate,51210_199705
+51320,199705,english,CEMP,False,True,False,51320_199705,61c24509895ae7c6d1a1f1401a41456f,,,False,,,New Labour. Because Britain Deserves Better,51320_199705
+51421,199705,english,MARPOR,False,True,False,51421_199705,bf901e9dbd22b35fd9689eb0f7e1ea31,,,True,1,,Make the Difference,51421_199705
+51620,199705,english,CEMP,False,True,False,51620_199705,70bce00657da86fb9677b840b53cd210,,,False,,,You can only be sure with the Conservatives,51620_199705
+51621,199705,,,,,,,,,,,,,Estimate,51621_199705
+51902,199705,english,MARPOR,True,True,False,51902_199705,aa0691b1aa6970c146357471703c30f6,/down/originals/51902_1997.pdf,a656741b37388ff427d52c211b6c9a43,True,3,,Yes we can win the best for Scotland,51902_199705
+51903,199705,,,,,,,,,,,,,Estimate,51903_199705
+51210,200106,,,,,,,,,,,,,Building an Ireland of equals,51210_200106
+51320,200106,english,MARPOR,False,True,False,51320_200106,8a16cb00ecf05f0ec40a7aa0ad337148,,,True,,,Ambitions for Britain,51320_200106
+51421,200106,english,CEMP,False,True,False,51421_200106,84f85ad731ee98ee976dd3f1befe467c,,,False,,,"Freedom, justice, honesty",51421_200106
+51620,200106,english,CEMP,False,True,False,51620_200106,5d2e8551bd5c6deec04dcd8b32f5f485,,,False,,,Time for common sense,51620_200106
+51621,200106,,,,,,,,,,,,,"Don't turn back the clock, don't let them wreck it - Ulster Unionist Party manifesto 2001",51621_200106
+51902,200106,english,MARPOR,True,True,False,51902_200106,374afc758838633111dee043192b578f,,,True,,,Heart of the manifesto 2001,51902_200106
+51903,200106,,,,,,,,,,,,,Leadership to put things right!,51903_200106
+51951,200106,english,MARPOR,False,True,False,51951_200106,e059b14d83ffb9e376643e6829f87af0,,,False,,,5 Essential Freedoms.,51951_200106
+51320,200505,english,CEMP,False,True,False,51320_200505,b28988f0c8bcbb819470ac700c25327b,,,False,,,Britain forward not back,51320_200505
+51421,200505,english,CEMP,False,True,False,51421_200505,1a26500369652cf81367a82fcc8acca9,,,False,,,The real alternative,51421_200505
+51620,200505,english,CEMP,False,True,False,51620_200505,92a867b50d63bdf5258ba030da05328b,,,False,,,Are you thinking what we’re thinking? It’s time for action. The Conservative Party manifesto,51620_200505
+51320,201005,,,,,,,,/down/originals/51320_2010.pdf,63f48e1ae2a078ad60bb4702b8a5def8,,,,A future fair for all,51320_201005
+51421,201005,,,,,,,,/down/originals/51421_2010.pdf,3de4f395f253ad5ba88741ed4d084116,,,,Change that works for you - building a fairer Britain,51421_201005
+51620,201005,,,,,,,,/down/originals/51620_2010.pdf,0d6c7333a5fa5c471735cb43c3037572,,,,Invitation to join the government of Britain,51620_201005
+51110,201505,english,MARPOR,False,True,False,51110_201505,79a2e2b9cf0bc32d8d0c71396e1440c1,/down/originals/2016-1/51110_2015.pdf,715a50a572be00220f867a1086fb176c,True,4,,For the common good. General election manifesto 2015,51110_201505
+51210,201505,english,MARPOR,False,True,False,51210_201505,5704eeb787da6e874f97f9d1689c164e,/down/originals/2016-1/51210_2015.pdf,ea2c5cc196d5552874ba8cdc4245b0f6,True,4,,Equality not austerity Comhionannas ní déine. Sinn Féin 2015 Westminster election manifesto,51210_201505
+51320,201505,english,MARPOR,False,True,False,51320_201505,ff39ae27539f64c51eb22f3b28e9aa6c,/down/originals/2016-1/51320_2015.pdf,05b217794abb4a28b44c98bae720198b,True,4,,Britain can be better. The Labour Party Manifesto 2015,51320_201505
+51340,201505,english,MARPOR,False,True,False,51340_201505,adc13e2073f93a266dbba3b9282df432,/down/originals/2016-1/51340_2015.pdf,d0838f84f79fb7adea77fe1b8764c963,True,4,,Prosperity not austerity. SDLP Westminster Manifesto 2015,51340_201505
+51421,201505,english,MARPOR,False,True,False,51421_201505,9f23c07a81e61778aec746491fd05e22,/down/originals/2016-1/51421_2015.pdf,912b1ac377993854fcd86a8f314dc18d,True,4,,Manifesto 2015. Stronger Economy. Fairer Society. Opportunity for Everyone.,51421_201505
+51620,201505,english,MARPOR,False,True,False,51620_201505,48beee758687bd4ba754509cb497c3ca,/down/originals/2016-1/51620_2015.pdf,460c62ee40db61fee3ce2989735f1131,True,4,,"Strong leadership. A clear economic plan. A brighter, more secure future. The Conservative Party manifesto 2015",51620_201505
+51621,201505,english,MARPOR,False,True,False,51621_201505,c4630d52c3544c3eda73d593e74b7517,/down/originals/2016-1/51621_2015.pdf,4a67dbcfdd7b21c758261d5567e3ae10,True,4,,"One day, one vote, one chance for change. Westminster Manifesto 2015",51621_201505
+51901,201505,english,MARPOR,False,True,False,51901_201505,0d2b2c424614fe4e3ab90b3654c9039a,/down/originals/2016-1/51901_2015.pdf,0e677029da86a45042377669c7aee8ee,True,4,,Working for Wales. 2015 Westminster Election Manifesto,51901_201505
+51902,201505,english,MARPOR,False,True,False,51902_201505,92e8fee4720191043a6e5025951cf8a7,/down/originals/2016-1/51902_2015.pdf,89ab765b770b608982406053e4ba27e9,True,4,,Stronger for Scotland. SNP Manifesto 2015,51902_201505
+51903,201505,english,MARPOR,False,True,False,51903_201505,0da52feba9d3fc007bfa1d8f0733102c,/down/originals/2016-1/51903_2015.pdf,ec07836e10ec2c52d71317e6628b9d11,True,4,,The Northern Ireland Plan,51903_201505
+51951,201505,english,MARPOR,False,True,False,51951_201505,0a2100f5929f1ea7dbc39a7c75f98879,/down/originals/2016-1/51951_2015.pdf,1ca6281d6ecc1c46d903fe9c4db9d10b,True,4,,Believe in Britain. UKIP Manifesto 2015,51951_201505
+51110,201706,english,MARPOR,False,True,False,51110_201706,5f629ffbde9d9363760623bbe2fb5c6d,/down/originals/2018-2/51110_2017.pdf,f07bd4ef0a3d822107305c869cb5059f,True,5,,The Green Party for a confident and caring Britain,51110_201706
+51210,201706,english,MARPOR,False,True,False,51210_201706,cc0227d8491ce262ebd308fb2ea81fa7,/down/originals/2018-2/51210_2017.pdf,a39d4292b275c01a364ece25eb2224aa,True,5,,Sinn Féin. Westminster election manifesto 2017. No Brexit. No border. No Tory cuts,51210_201706
+51320,201706,english,MARPOR,False,True,False,51320_201706,ffe35e702324e641236a11e1f263471f,/down/originals/2018-2/51320_2017.pdf,6ef3f04bdede82fc1e31d38b16a733c8,True,5,,For the many not the few. The Labour Party manifesto 2017,51320_201706
+51421,201706,english,MARPOR,False,True,False,51421_201706,7e0fa07c4380e4f616ae65fceaae5460,/down/originals/2018-2/51421_2017.pdf,9eddba3e7bb1b24dce8eeb7d5c3dbfae,True,5,,Change Britain´s future. Liberal Democrat manifesto 2017,51421_201706
+51620,201706,english,MARPOR,False,True,False,51620_201706,71d145f70a536731a28d36fbea710d6c,/down/originals/2018-2/51620_2017.pdf,0fa5cfdaabf95fa2e304a3ded4442710,True,5,,"Forward, together. Our plan for a stronger Britain and a prosperous future. The Conservative and Unionist Party manifesto 2017",51620_201706
+51901,201706,english,MARPOR,False,True,False,51901_201706,b43ffb34689406bb9067a52db075a2d5,/down/originals/2018-2/51901_2017.pdf,99b66066a6f3203d40323ad0a90731b3,True,5,,Tarian Cymru. Plaid Cumru. Defending Wales. Action Plan 2017,51901_201706
+51902,201706,english,MARPOR,False,True,False,51902_201706,1c51fa8f97f0de1fe72685ddff55b899,/down/originals/2018-2/51902_2017.pdf,5681ab0ca2e98ff80555a0372147cd09,True,5,,Stronger for Scotland. Manifesto 2017,51902_201706
+51903,201706,english,MARPOR,False,True,False,51903_201706,9ba0ca771e34c22ffe9485f216be3e47,/down/originals/2018-2/51903_2017.pdf,3c397a2bc7b46762d2d7fa093a1f30d1,True,5,,Standing strong for Northern Ireland. The DUP manifesto for the 2017 Westminster election,51903_201706
+51951,201706,english,MARPOR,False,True,False,51951_201706,f6a5467ac5e4fd127661551f88f3acfa,/down/originals/2018-2/51951_2017.pdf,21c595165e06d9ad430f003ad0ddd925,True,5,,Britain Together. UKIP 2017 manifesto,51951_201706
+51110,201912,english,MARPOR,False,True,False,51110_201912,f6f73046cff77f94f62256597bac3012,/down/originals/2020-1/51110_2019.pdf,db0d3e814bdbeed362ea81e53066dc37,True,5,,"If not now, when?",51110_201912
+51210,201912,english,MARPOR,False,True,False,51210_201912,c8c32510e9df570a556c59822bc7422c,/down/originals/2020-1/51210_2019.pdf,1201b63b1ef643cc8e178b72e629a10a,True,5,,Time for unity,51210_201912
+51320,201912,english,MARPOR,False,True,False,51320_201912,0da2149574a0dcc067abaf223e91b9ab,/down/originals/2020-1/51320_2019.pdf,b92e0bf8d1202c474c16f8f3f6b3925a,True,5,,It's time for real change ,51320_201912
+51340,201912,english,MARPOR,False,True,False,51340_201912,1eaab709947b042b7ed1000bbbcfe09d,/down/originals/2020-1/51340_2019.pdf,99d6e035cf66103f57075215f8233a06,True,5,,"Stop Boris, stop Brexit",51340_201912
+51421,201912,english,MARPOR,False,True,False,51421_201912,f5f4b9714ea47a619a51806e340c9a48,/down/originals/2020-1/51421_2019.pdf,de1d8528b492ef56f25920534310e4d5,True,5,,Stop Brexit build a brighter future,51421_201912
+51430,201912,english,MARPOR,False,True,False,51430_201912,a32d6fbabf19bf6044552da86c8c1e22,/down/originals/2020-1/51430_2019.pdf,a252c96c570d84baf57f0102ff83ac81,True,5,,Demand better.,51430_201912
+51620,201912,english,MARPOR,False,True,False,51620_201912,5d5fcd08e00b51c3ffdc3e908bd00736,/down/originals/2020-1/51620_2019.pdf,2352aedf22264cd0db0c2d2495b2238b,True,5,,Get Brexit done. Unleash Britain's potential,51620_201912
+51901,201912,english,MARPOR,False,True,False,51901_201912,655dca73cf3d0ba2051d3deca95e980a,/down/originals/2020-1/51901_2019.pdf,564e30d8ead9e227517ba2db891a30f4,True,5,,"Wales, it's us",51901_201912
+51902,201912,english,MARPOR,False,True,False,51902_201912,48a507208b9c8ec6e4a62c4ba47ca6e0,/down/originals/2020-1/51902_2019.pdf,73d69e5213f8597ce82c6ea96f7c7bbf,True,5,,Strong for Scotland,51902_201912
+51903,201912,english,MARPOR,False,True,False,51903_201912,1f9a5da7819b7cf6d82d508bc38a1c6e,/down/originals/2020-1/51903_2019.pdf,fb614ba141487c61e192a91e5c23641f,True,5,,Let's get the UK moving again,51903_201912
+61320,192011,,,,,,,,/down/originals/2015-1/61320_1920.pdf,6ca3564157d2420e46a7c380db13fe92,,,,Democratic Platform of 1920,61320_192011
+61620,192011,,,,,,,,/down/originals/2015-1/61620_1920.pdf,1be10fd0a030726c160c34df78d6f408,,,,Republican Platform of 1920,61620_192011
+61320,192411,,,,,,,,/down/originals/2015-1/61320_1924.pdf,3dadf07c38b4b2d781f6f9a6cf09ce2b,,,,Democratic Platform of 1924,61320_192411
+61620,192411,,,,,,,,/down/originals/2015-1/61620_1924.pdf,ace8829d7fc9c8c6ddff181f4ca6751d,,,,Republican Platform of 1924,61620_192411
+61621,192411,,,,,,,,/down/originals/2015-1/61621_1924.pdf,6dc955ec3656cbcdfcef93fcc9b1ee92,,,,La Follette's Platform of 1924,61621_192411
+61320,192811,,,,,,,,/down/originals/2015-1/61320_1928.pdf,ec9ef2b44b52b05bde5be3acf1656428,,,,Democratic Platform for 1928,61320_192811
+61620,192811,,,,,,,,/down/originals/2015-1/61620_1928.pdf,75f92f357e79024d5e588620a3662982,,,,Republican Platform of 1928,61620_192811
+61320,193211,,,,,,,,/down/originals/2015-1/61320_1932.pdf,26968a3f831f8f08bcd13d45a88469e2,,,,Democratic Platform for 1932,61320_193211
+61620,193211,,,,,,,,/down/originals/2015-1/61620_1932.pdf,835a03cb01abd155a83f2ba959acfc97,,,,Republican Platform of 1932,61620_193211
+61320,193611,,,,,,,,/down/originals/2015-1/61320_1936.pdf,0480c3f2b13169a66863234ce4fd5f88,,,,Democratic Platform of 1936,61320_193611
+61620,193611,,,,,,,,/down/originals/2015-1/61620_1936.pdf,768b0b8f4c622ec22d9a4b32012d05c2,,,,Republican Platform for 1936,61620_193611
+61320,194011,,,,,,,,/down/originals/2015-1/61320_1940.pdf,7f269313b8aa57c3c1ff4c8058894000,,,,Democratic Platform of 1940,61320_194011
+61620,194011,,,,,,,,/down/originals/2015-1/61620_1940.pdf,ba92c0d54680c51957fec776d66f1f15,,,,Republican Platform for 1940,61620_194011
+61320,194411,,,,,,,,/down/originals/2015-1/61320_1944.pdf,7c2446d03761e80bdfbc3fcf8cdab356,,,,Democratic Platform of 1944,61320_194411
+61620,194411,,,,,,,,/down/originals/2015-1/61620_1944.pdf,c97f8e51927c1c75f0518d9d6356a9e1,,,,Republican Platform for 1944,61620_194411
+61320,194811,,,,,,,,/down/originals/61320_1948.pdf,bcfd9f219c3ecfedf7e9e6ae00a52b6f,,,,Democratic Party Platform 1948,61320_194811
+61620,194811,,,,,,,,/down/originals/61620_1948.pdf,cab86868330333625630b6458beb6a32,,,,Republican Party Platform of 1948,61620_194811
+61622,194811,,,,,,,,/down/originals/61622_1948.pdf,06683ba70364345e9ff1b68c2554bf5b,,,,"Progressive Party Platform, 1948",61622_194811
+61911,194811,,,,,,,,,,,,,States' Rights Platform of 1948,61911_194811
+61320,195211,,,,,,,,/down/originals/61320_1952.pdf,8880d2ae33c0dabdd078909b9f036796,,,,Democratic Party Platform of 1952,61320_195211
+61620,195211,,,,,,,,/down/originals/61620_1952.pdf,31cb6d3493b9c41bb6196d300edd8a0f,,,,1952 Republican Platform,61620_195211
+61320,195611,,,,,,,,/down/originals/61320_1956.pdf,a96a3c3fc0d77901111757e3f56a0601,,,,Democratic Platform 1956,61320_195611
+61620,195611,,,,,,,,/down/originals/61620_1956.pdf,dfa5c23e4d17648d614b40f3f2869d99,,,,Republican Platform 1956,61620_195611
+61320,196011,english,CEMP,False,True,False,61320_196011,02b852eaf10861fb50a83c68f47ae9c5,,,False,,,Democratic Party Platform 1960,61320_196011
+61620,196011,english,CEMP,False,True,False,61620_196011,c4c08460495ad674ccaf4f554bd042c8,,,False,,,Republican Party Platform 1960,61620_196011
+61320,196411,english,CEMP,False,True,False,61320_196411,b9faa26edaecf46f98c9375ed0233a36,,,False,,,Democratic Party Platform 1964,61320_196411
+61620,196411,english,CEMP,False,True,False,61620_196411,de3bb4a1318762a5f055ba4bac8c051b,,,False,,,Republican Party Platform 1964,61620_196411
+61320,196811,english,CEMP,False,True,False,61320_196811,129c0250bb0ce8f638943349a19196e1,,,False,,,Democratic Party Platform 1968,61320_196811
+61620,196811,english,CEMP,False,True,False,61620_196811,d9fb11f29a569ccb75b7c80eb4b80c01,,,False,,,Republican Party Platform 1968,61620_196811
+61320,197211,english,CEMP,False,True,False,61320_197211,59670017fce8eeafee5c74eca0cf9135,,,False,,,Democratic Party Platform 1972,61320_197211
+61620,197211,english,CEMP,False,True,False,61620_197211,b926779a88a7f5c93d2046dd0e709684,,,False,,,Republican Party Platform 1972,61620_197211
+61320,197611,english,CEMP,False,True,False,61320_197611,4f729b66c583b60ba97181e80e4c368b,,,False,,,Democratic Party Platform 1976,61320_197611
+61620,197611,english,CEMP,False,True,False,61620_197611,c79f7b8bcf2593076e7426bf19a7b332,,,False,,,Republican Party Platform 1976,61620_197611
+61320,198011,english,CEMP,False,True,False,61320_198011,6dfb6b7f318293c1e654a1d5ad1c42e7,,,False,,,Democratic Party Platform 1980,61320_198011
+61620,198011,english,CEMP,False,True,False,61620_198011,c1bb737566ee49ba24350be8dd7f5e3b,,,False,,,Republican Party Platform 1980,61620_198011
+61320,198411,english,CEMP,False,True,False,61320_198411,f3240420f02f171fbd1fcc127c5e93f8,,,False,,,1984 Democratic platform,61320_198411
+61620,198411,english,CEMP,False,True,False,61620_198411,9ced3e05a7f5124dd0e47178a2448d6c,,,False,,,1984 Republican platform,61620_198411
+61320,198811,english,CEMP,False,True,False,61320_198811,80fea9275f0423a12d0b05d5cee1e17e,,,False,,,The 1988 Democratic national platform,61320_198811
+61620,198811,english,CEMP,False,True,False,61620_198811,984a3ad5eb316e5d8db8e28e9f16686b,,,False,,,An American vision. For our children and our future,61620_198811
+61320,199211,english,MARPOR,False,True,False,61320_199211,1e1529bd0d2f579335c027865dfd0d22,,,True,1,,Party statement of policies mirrors Clinton’s goals,61320_199211
+61620,199211,english,CEMP,False,True,False,61620_199211,60ac4dfcc24392cb4b31a89be801f900,,,False,,,Republican Party platform 1992,61620_199211
+61320,199611,english,CEMP,False,True,False,61320_199611,9f1d218669c28084183b5ed2552bcdc0,,,False,,,1996 Democratic national platform,61320_199611
+61620,199611,english,CEMP,False,True,False,61620_199611,0e99c1c39851e54700959ead33c95160,,,False,,,The 1996 Republican platform,61620_199611
+61320,200011,english,CEMP,False,True,False,61320_200011,bd19b331579290c90420dfb8fdf5f6c7,/down/originals/61320_2000.pdf,519e2e9267772c92942fe1cc9e0b2b04,False,,,"The 2000 Democratic National Platform: Prosperity, Progress, and Peace",61320_200011
+61620,200011,english,CEMP,False,True,False,61620_200011,8025031ebd9c5506937513282d5e2c17,/down/originals/61620_2000.pdf,c5f2119aa0362c2ebcc2af87add56aba,False,,,Republican Platform 2000. Renewing America’s Purpose. Together.,61620_200011
+61320,200411,english,MARPOR,False,True,False,61320_200411,dbac1cdc287924cb964fbb1e19c87762,,,True,,,"Strong at Home, Respected in the World. The Democratic Platform for America",61320_200411
+61620,200411,english,MARPOR,False,True,False,61620_200411,b30865c0b93152467ec299b687965ceb,,,True,,,2004 Republican Party Platform: A Safer World and a More Hopeful America,61620_200411
+61320,200811,english,MARPOR,False,True,False,61320_200811,15bbf7db05c54442d86982af53d20a4c,/down/originals/61320_2008.pdf,794eb275703dfd76cdcd0d573820b825,False,,,The 2008 Democratic National Platform. Renewing America's Promise,61320_200811
+61620,200811,english,MARPOR,False,True,False,61620_200811,16eee638256eed59800ad769e4c2eece,/down/originals/61620_2008.pdf,95b1c7f7529bbcca67755f0c01f8e13b,True,,,2008 Republican Platform,61620_200811
+61320,201211,english,MARPOR,False,True,False,61320_201211,f546f6c6f664436944bca1d8e5900745,/down/originals/61320_2012.pdf,d5bf1271cf2c702b51c5abac3dd2dfce,True,4,,Moving America Forward. 2012 Democratic National Platform,61320_201211
+61620,201211,english,MARPOR,False,True,False,61620_201211,3477dbfd9efc09b01211208a19fcd2ad,/down/originals/61620_2012.pdf,cbf0955209e244c81a96fdc890da2ccc,True,4,,We believe in America. Republican Platform,61620_201211
+61320,201611,english,MARPOR,False,True,False,61320_201611,5b03df6b0ce818a272c0fd6051862f34,/down/originals/2018-1/61320_2016.pdf,1138b986c4618e8df7127b65595937ec,True,5,,2016 Democratic Party Platform,61320_201611
+61620,201611,english,MARPOR,False,True,False,61620_201611,48e70ca9fbca54ccb07f0bc64fbae3d8,/down/originals/2018-1/61620_2016.pdf,4155c1c7485b212db1b0586fca8148a7,True,5,,Republican Platform 2016,61620_201611
+62320,194506,,,,,,,,,,,,,Security with victory,62320_194506
+62420,194506,,,,,,,,,,,,,News release,62420_194506
+62620,194506,,,,,,,,,,,,,Bracken’s charter for a better Canada,62620_194506
+62951,194506,,,,,,,,,,,,,The social credit charter,62951_194506
+62320,194906,,,,,,,,,,,,,Security for all,62320_194906
+62420,194906,,,,,,,,,,,,,"Resolutions adopted by the Third National Liberal Convention, Ottawa, 1948",62420_194906
+62620,194906,,,,,,,,,,,,,"A letter stating policy, signed by the leader of the Progressive Conservative Party",62620_194906
+62951,194906,,,,,,,,,,,,,Campaign leaflet,62951_194906
+62320,195308,,,,,,,,,,,,,Humanity first,62320_195308
+62420,195308,,,,,,,,,,,,,Collection of campaign speeches by party leader,62420_195308
+62620,195308,,,,,,,,,,,,,Campaign leaflets,62620_195308
+62951,195308,,,,,,,,,,,,,Campaign speech by the leader,62951_195308
+62320,195706,,,,,,,,,,,,,Winnipeg declaration of principles of the Cooperative Commonwealth Federation,62320_195706
+62420,195706,,,,,,,,,,,,,Campaign speeches by the leader,62420_195706
+62620,195706,,,,,,,,,,,,,A new national policy,62620_195706
+62951,195706,,,,,,,,,,,,,It’s your Canada,62951_195706
+62320,195803,,,,,,,,,,,,,Campaign leaflet,62320_195803
+62420,195803,,,,,,,,,,,,,New statements of Liberal policy,62420_195803
+62620,195803,,,,,,,,,,,,,Campaign speeches by the leader,62620_195803
+62951,195803,,,,,,,,,,,,,Campaign leaflet,62951_195803
+62320,196206,english,CEMP,False,True,False,62320_196206,59befaa42cc0e7f1954e4790ebd92e21,,,False,,,"The Federal Program of the New Democratic Party, adopted by its founding convention",62320_196206
+62420,196206,english,CEMP,False,True,False,62420_196206,89f0ed5a99eba1dbea156f2973a5e48c,,,False,,,The Liberal programme,62420_196206
+62620,196206,english,CEMP,False,True,False,62620_196206,8c0106e3be129ede965252daa5ff494e,,,False,,,Campaign speeches by the leader,62620_196206
+62951,196206,english,CEMP,False,True,False,62951_196206,e05485459987c36ae778e8270cc44693,,,False,,,"A statement of social credit objectives, principles and policies",62951_196206
+62320,196304,english,CEMP,False,True,False,62320_196304,36bc73801eb572a83726e529edc20607,,,False,,,Campaign leaflet,62320_196304
+62420,196304,english,CEMP,False,True,False,62420_196304,e840d4a9592a29869610fab68893dae6,,,False,,,The policies of the Liberal party,62420_196304
+62620,196304,english,CEMP,False,True,False,62620_196304,48d7f9e0bda3e66cd435b10dba3b3f8c,,,False,,,Campaign leaflets,62620_196304
+62951,196304,english,CEMP,False,True,False,62951_196304,3fc177eb18ec8d759e8dff022d9ec75f,,,False,,,Policy statement,62951_196304
+62320,196511,english,CEMP,False,True,False,62320_196511,1b5bba39a7cd964a4e15beab247dc1ee,,,False,,,Campaign leaflet,62320_196511
+62420,196511,english,CEMP,False,True,False,62420_196511,eb0a045fb45c15f1c4d260cbe35549d7,,,False,,,Speakers’ notes,62420_196511
+62620,196511,english,CEMP,False,True,False,62620_196511,4c837bff55a6110d2536f50d3d1d86b0,,,False,,,Policies for people,62620_196511
+62951,196511,english,CEMP,False,True,False,62951_196511,237aa3bcda1c898ff0e26aa737931566,,,False,,,Social credit candidate’s party platform,62951_196511
+62320,196806,english,CEMP,False,True,False,62320_196806,e7228e30bc2fa87f8ef901a58c1b7b28,,,False,,,New Democratic Party program,62320_196806
+62420,196806,english,CEMP,False,True,False,62420_196806,20ce9ce8af08e9035f84fd68c77a3a83,,,False,,,Speakers’ notes,62420_196806
+62620,196806,english,CEMP,False,True,False,62620_196806,ceda7e0e058b6077a9f95f726a632803,,,False,,,Progressive conservative party handbook,62620_196806
+62951,196806,english,CEMP,False,True,False,62951_196806,b258b1cc72c2fd746ca5ba4cf6c14ff2,,,False,,,"A statement of social credit objectives, principles and policies",62951_196806
+62320,197210,english,CEMP,False,True,False,62320_197210,4c293b5a467a0d322f990457c2092b46,,,False,,,New Democratic Party program,62320_197210
+62420,197210,english,CEMP,False,True,False,62420_197210,d6228101487112f0ca9fd063a41eccb9,,,False,,,Collection of campaign leaflets,62420_197210
+62620,197210,english,CEMP,False,True,False,62620_197210,88915894253b79c7aa33a727f56597dc,,,False,,,Campaign leaflets,62620_197210
+62951,197210,,,,,,,,,,,,,Estimate,62951_197210
+62320,197407,english,CEMP,False,True,False,62320_197407,411c5dfb6abf46f28e703eb66f58c777,,,False,,,A free and generous society,62320_197407
+62420,197407,english,CEMP,False,True,False,62420_197407,de2db475edb53397db843176fe9da833,,,False,,,Collection of campaign leaflets,62420_197407
+62620,197407,english,CEMP,False,True,False,62620_197407,b1a4141d19d3e2d1f04fd821ce2a3550,,,False,,,Campaign leaflets,62620_197407
+62951,197407,,,,,,,,,,,,,Estimate,62951_197407
+62320,197905,,,,,,,,,,,,,New Democratic ideas for working on Canada’s future,62320_197905
+62420,197905,,,,,,,,,,,,,Collection of campaign leaflets,62420_197905
+62620,197905,,,,,,,,,,,,,Campaign leaflets,62620_197905
+62320,198002,,,,,,,,,,,,,A choice for Canadians: policies of the New Democratic Party,62320_198002
+62420,198002,english,CEMP,False,True,False,62420_198002,03593d6423445f41904d4346684b92b8,,,False,,,Collection of campaign leaflets,62420_198002
+62620,198002,english,CEMP,False,True,False,62620_198002,418cc9f6f3ec54400d1dc18625221a59,,,False,,,Campaign leaflets,62620_198002
+62320,198409,english,CEMP,False,True,False,62320_198409,1ec7feac1dfe5ff29a670788e10e21ce,,,False,,,A new Democratic future. New opportunities for Canadians like you,62320_198409
+62420,198409,english,CEMP,False,True,False,62420_198409,cb146a128918de456e0874ac77cd5642,,,False,,,"‘The Issues’, John Turner Speaks Out",62420_198409
+62620,198409,,,,,,,,,,,,,PC politique atout 84,62620_198409
+62320,198811,english,CEMP,False,True,False,62320_198811,41fb0c29037721ef8df68042de2babc5,,,False,,,"‘Meeting the Challenge’, Ed Broadbent and the New Democrats speak up for average Canadians",62320_198811
+62420,198811,,,,,,,,,,,,,What a Liberal government will do for you,62420_198811
+62620,198811,french,CEMP,False,True,False,62620_198811,04f94e142526aa0c03d04256f3be5a45,,,False,,,PC politiques en bref,62620_198811
+62320,199310,,,,,,,,,,,,,"Les priorité, ce sont les gens",62320_199310
+62420,199310,english,CEMP,False,True,False,62420_199310,2f85f1deda030dcab91eada6bda22cd1,,,False,,,Creating opportunity: the Liberal plan for Canada,62420_199310
+62620,199310,french,CEMP,False,True,False,62620_199310,06ea3aa07c03ea30b97d72d430c3c90a,,,False,,,Un gouvernement au service de la population. Par respect envers le contribuable,62620_199310
+62621,199310,,,,,,,,/down/originals/62621_1993.pdf,93f2129636c85030e1f72d9a69c3f7bb,,,,Bâtir Un Nouveau Canada: Principes Et Politiques (French version),62621_199310
+62901,199310,,,,,,,,/down/originals/2017-1/62901_1993.pdf,ad43d921918f6c1f8f966e6a2ad9bbd8,,,,Un Nouveau Parti Pour L'Étape Décisive (French version),62901_199310
+62320,199706,english,CEMP,False,True,False,62320_199706,0c4154aa17209965f118957b03db82c7,,,False,,,A framework for Canada’s future,62320_199706
+62420,199706,english,CEMP,False,True,False,62420_199706,9ab226bec6c9cd6293367532d4f0404e,,,False,,,Securing our future together,62420_199706
+62620,199706,english,CEMP,False,True,False,62620_199706,3b9e4a3cad9735705b99708ec38d4694,,,False,,,Jean Charest’s plan Canada’s next century,62620_199706
+62621,199706,english,CEMP,False,True,False,62621_199706,14bfb64dbd938ed63eef6f42fba4516d,,,False,,,A 6 point plan to build a brighter future together,62621_199706
+62901,199706,english,CEMP,False,True,False,62901_199706,e098942fe6fbf2626b15880ba84e5d61,,,False,,,Election platform,62901_199706
+62320,200011,english,CEMP,False,True,False,62320_200011,a48009a21f7cc5436d65c8787449911f,/down/originals/62320_2000.pdf,cc157fe45b1153d42928a4ee8fece0fd,False,,,Think How Much Better Canada Could be. The ND Commitments to Canadians,62320_200011
+62420,200011,english,CEMP,False,True,False,62420_200011,7ed3cbbf464dff1f38aa2e8e068d6141,/down/originals/62420_2000.pdf,87446e49e71005b446e09913af8fad5c,False,,,Opportunity for all. The Liberal Plan for the Future of Canada,62420_200011
+62620,200011,english,CEMP,False,True,False,62620_200011,afa42299cfffa66d13cad46e981098de,/down/originals/62620_2000.pdf,2a43c1f3de3578982b11fe2f450e8f85,False,,,Canadians have a Choice in this Election,62620_200011
+62622,200011,english,CEMP,False,True,False,62622_200011,fd746239d840a7c5d908b4bb07d87bc7,/down/originals/62622_2000.pdf,a5d8cbe44f741e689ff72d0837d8e730,False,,,A Time for Change. An Agenda of Respect for All Canadians,62622_200011
+62901,200011,french,CEMP,False,True,False,62901_200011,52d1230008aaf92c09e000c26645479c,/down/originals/62901_2000.pdf,02e5997205906fb8f87b36e4b05398b2,False,,,‘Le Québec gagne á voter Bloc’ (English version),62901_200011
+62320,200406,english,MARPOR,False,True,False,62320_200406,0dfa90b6a76088e8406753bbf120dd90,/down/originals/2015-1/62320_2004.pdf,8e91f16032c5461321abdf5f0f9a8803,True,3,,New energy. A positive choice.,62320_200406
+62420,200406,english,MARPOR,False,True,False,62420_200406,55d2bab4d31d1f895054ab3c104a7139,/down/originals/2015-1/62420_2004.pdf,83a29c5a0820d2630d43717203ce06ab,True,3,,Moving Canada forward: The Paul Martin plan for getting things done,62420_200406
+62623,200406,english,MARPOR,False,True,False,62623_200406,9881eaee3357be7aaaaaff1b208f513c,/down/originals/2015-1/62623_2004.pdf,00ef225c9f3f4ebc7b8e8463b8b37587,True,3,,Demanding better,62623_200406
+62901,200406,french,MARPOR,False,True,False,62901_200406,6681ca6f8f6b9a949a5a5900d534cbd0,/down/originals/2015-1/62901_2004.pdf,1d108b99173be21b9d0691a025027522,True,3,,Un parti propre au Québec,62901_200406
+62320,200601,english,MARPOR,False,True,False,62320_200601,ecdab63c204ce3c3083bab09431f1fa9,/down/originals/2015-1/62320_2006.pdf,93cb9b6b05c4bec1345818a80ad13012,True,3,,Getting results for people,62320_200601
+62420,200601,english,MARPOR,False,True,False,62420_200601,16f761476dc847bcba5a51f038228842,/down/originals/2015-1/62420_2006.pdf,e57394db4f9b547fcf41aac4dc44f56a,True,3,,Securing Canada’s success,62420_200601
+62623,200601,english,MARPOR,False,True,False,62623_200601,a18420eeac4b3f1aaa4400b9118068ee,/down/originals/2015-1/62623_2006.pdf,319e54eda60d280ff6b94a63490ea1d3,True,3,,Stand up for Canada,62623_200601
+62901,200601,french,MARPOR,False,True,False,62901_200601,84bf10982a34c93a439215c91bff7e49,/down/originals/2015-1/62901_2006.pdf,8c42908cdd7ea1c6dbd0e2e4eee0724b,True,3,,"Heureusement, ici, c'est le Bloc",62901_200601
+62110,200810,english,MARPOR,False,True,False,62110_200810,757e339ce2e15a128a9864c2781e2eee,/down/originals/2015-1/62110_2008.pdf,a8f1cd32f20a88e8cb1798d0f5123919,True,3,,Vision Green - What kind of Canada do we want in 2020?,62110_200810
+62320,200810,english,MARPOR,False,True,False,62320_200810,c012d16c424318cb8fa96fdb60fa074d,/down/originals/2015-1/62320_2008.pdf,9e3da262a303d2f2130876e0649dc9d1,True,3,,"A Prime Minister on your family's side, for a change.",62320_200810
+62420,200810,english,MARPOR,False,True,False,62420_200810,f670ccc667941b94b97b7f9544affae9,/down/originals/2015-1/62420_2008.pdf,325c6dde2b513df75257eac295a26063,True,3,,The green shift - building a Canadian economy for the 21st century,62420_200810
+62623,200810,english,MARPOR,False,True,False,62623_200810,f16a23f9986612186ede4a7ca006dd78,/down/originals/2015-1/62623_2008.pdf,1d81459a105a898c1ac94484dbae7767,True,3,,The true north strong and free - Stephen Harper's plan for Canadians,62623_200810
+62901,200810,french,MARPOR,False,True,False,62901_200810,1ee4f6f25a79b8a23353514640eb3121,/down/originals/2015-1/62901_2008.pdf,04363d545cc1d654286f2a4217d60a54,True,3,,Présent! Pour le Québec,62901_200810
+62110,201105,french,MARPOR,False,True,False,62110_201105,633a7259854041db309815b570e03454,/down/originals/2017-1/62110_2011.pdf,8519965cd8d18eee5286689f272b57f0,True,4,,Économie innovante. Collectivités dynamiques. Démocratie véritable.,62110_201105
+62320,201105,french,MARPOR,False,True,False,62320_201105,b5899ecd9cab811edd6e7da3d043e507,/down/originals/2017-1/62320_2011.pdf,af89f13fb4ada353aea4477e85694178,True,4,,Donner un répit à votre famille - des mesures concrètes,62320_201105
+62420,201105,french,MARPOR,False,True,False,62420_201105,4a617708125437367d737178173c2d32,/down/originals/2017-1/62420_2011.pdf,a27343df0e4772fb9d54562e943aa7bd,True,4,,Votre famille. Votre avenir. Votre Canada.,62420_201105
+62623,201105,french,MARPOR,False,True,False,62623_201105,c269119fd4e5c7a7d849b246f16e157b,/down/originals/2017-1/62623_2011.pdf,9c209056c9d11a936124d8cde89f9c47,True,4,,Ici pour le Canada,62623_201105
+62901,201105,french,MARPOR,False,True,False,62901_201105,c230a31dacde5152f11f5af9eec37dd5,/down/originals/2017-1/62901_2011.pdf,41b55c70e694dc9985bdf4c97c6dcd4b,True,4,,Parlons Qc,62901_201105
+62110,201510,english,MARPOR,False,,False,62110_201510,4500ed1a672b15e20647215c61b8d333,/down/originals/2016-2/62110_2015.pdf,f120d8edb4097de0ec846d9a66e894aa,True,4,,Vision Green 2015,62110_201510
+62320,201510,english,MARPOR,False,,False,62320_201510,71ce53ada85b3c4c49029e2be70d1ce3,/down/originals/2016-2/62320_2015.pdf,88e4e21a5a9a0526f743252433d04f3f,True,4,,Building the country of our dreams,62320_201510
+62420,201510,english,MARPOR,False,,False,62420_201510,bdb621865c6973a559f3cc45494a96df,/down/originals/2016-2/62420_2015.pdf,c3c8c81c5c23e1d8b1189d2cdf2b235c,True,4,,Real Change: A New Plan for a Strong Middle Class,62420_201510
+62623,201510,english,MARPOR,False,,False,62623_201510,4fc20f90dad3b1b77f074ae1f13be414,/down/originals/2016-2/62623_2015.pdf,d39b0717b33712d6230f60c3cca8c6b4,True,4,,Protect our Economy: Our Conservative Plan to Protect the Economy,62623_201510
+62901,201510,french,MARPOR,False,,False,62901_201510,c59aba758eabeacd12f0c55a78f75df7,/down/originals/2016-2/62901_2015.pdf,091b1f4bbf746a2c3d18e8ce8f2add6b,True,4,,Programme du Bloc Québécois,62901_201510
