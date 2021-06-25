@@ -15,6 +15,8 @@ The `word-embedding.ipynb` contains are trained Doc2Vec and Word2Vec models.
 
 The VADER model used for sentiment analysis is located in the `for_sentiment_analysis.ipynb` file. 
 
+The topic modelling was conducted in R, and the file is `manifesto_stm_sicss.R`. 
+
 ## Visuals
 The visuals folder contains the visuals of our results.
 
