@@ -1,8 +1,9 @@
+
 manifesto <- cleaned_manifesto_usa_duplicated1
 
 library(stm)
 processed <- textProcessor(manifesto$text_cleaned,
-                           metadata=manifesto)
+                          metadata=manifesto)
 out <- prepDocuments(processed$documents,
                      processed$vocab,
                      processed$meta)
@@ -19,9 +20,9 @@ findThoughts(First_STM, texts=manifesto$text_cleaned, n=1, topics=4)
 #working with metadata
 predict_topics<-estimateEffect(formula = 1:22 ~
                                  partyabbrev,
-                               stmobj = First_STM,
-                               metadata = out$meta,
-                               uncertainty = "Global")
+                                 stmobj = First_STM,
+                                 metadata = out$meta,
+                                 uncertainty = "Global")
 
 plot(predict_topics, covariate="partyabbrev",
      topics =c(11, 14, 17), model =First_STM,
